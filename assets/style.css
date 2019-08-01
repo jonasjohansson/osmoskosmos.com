@@ -1,0 +1,31 @@
+@import url(https://cdn.jsdelivr.net/npm/modern-normalize/modern-normalize.min.css);
+@import url(https://nava.community/_includes/assets/css/template.css);
+
+body {
+    font-family: 'Nimbus', -apple-system, system-ui, sans-serif;
+}
+
+h1 {
+    /*line-height: 1em;*/
+    font-weight: 400;
+}
+
+h2,
+h3 {
+    text-transform: uppercase;
+    font-weight: normal;
+    letter-spacing: 0.01em;
+}
+
+@font-face {
+    font-family: 'Nimbus';
+    src: url('/_includes/assets/NimbusSansDOT-LighExte.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Nimbus';
+    src: url('/_includes/assets/NimbusSansDOT-ReguExte.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
