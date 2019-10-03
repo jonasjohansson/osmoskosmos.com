@@ -1,1 +1,0 @@
-# osmoskosmos.com
